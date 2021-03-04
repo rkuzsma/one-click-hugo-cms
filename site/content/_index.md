@@ -1,5 +1,5 @@
 ---
-title: Here's my site!
+title: This is cool!
 subtitle: I can edit it visually
 image: /img/home-jumbotron.jpg
 blurb:
